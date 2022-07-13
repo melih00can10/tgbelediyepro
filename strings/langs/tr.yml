@@ -74,7 +74,7 @@ admin_34 : "Mevcut akış aranamadı."
 # Bot 
 # Start
 start_1 : "Beni {0}'e davet ettiğiniz için teşekkürler.\n{1} çalışıyor.\n\nHerhangi bir yardım için destek grubumuza veya kanalımıza göz atın.."
-start_2 : "💥Merhaba, Benim adım {0}.\n\nBen Sesli Sohbette Müzik Ve Video izlemeniz İçin Yapıldım.Grubunuza Alıp Kullanabilirsiniz."
+start_2 : "💥Merhaba, Benim adım {0}.\n\nBen Sesli Sohbette Müzik Ve Video izlemeniz İçin @♪tgbelediyesi grubuna özel olarak Yapıldım.."
 start_3 : "Benim Adım {0}\n\nÇalışmak için:\n1-)Mesaj Silme\n2-)Görüntülü Sohbet Yönetme\n3-)Bağlantı İle Davet Etme\nYetkisi Vermelisiniz.\n\n**KEYİFLİ DİNLEMELER**"
 start_4 : "{0} **Botun Kurucusu** -> {1} <- **Grubunuza Katıldı**."
 start_5 : "{0} **Botun Yetkili Kullanıcısı** -> {1} <- **Grubunuza Katıldı**."
