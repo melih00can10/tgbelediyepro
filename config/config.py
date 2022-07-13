@@ -167,7 +167,7 @@ autoclean = []
 # Images
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "assets/youtube.jpg",
+    None,
 )
 
 PING_IMG_URL = getenv(
